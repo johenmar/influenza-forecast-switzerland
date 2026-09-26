@@ -1,4 +1,4 @@
-# Forecasting the Swiss flu wave: time-series models vs machine learning
+# Forecasting the Swiss flu wave: Probabilistic short-term forecasting
 
 **Probabilistic 1–4 week forecasts of influenza-like illness in Switzerland, evaluated out of sample over three winters, with a test of whether wastewater data add information**
 
